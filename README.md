@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Atluru Naraasimha  👋
+Software Developer |frontend Developer.
 
-<!--
-**atlurnarasimha80-hub/atlurnarasimha80-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i'm  a computer science engineerning student passionate about building practical software applications
+## About Me
+- 🔭 Recently completed BE in computer science.
+- 🌱 Learning as python full stack coursces
+- 📍 i'm from Ambedkar nagar ,kadapa district,Andhra Pradesh 
+  connect With Me
 
-Here are some ideas to get you started:
+- **LinkedIn:** [https://www.linkedin.com/in/atlur-narasimha-4b80a3451/]
+- **Email:** [atlurnarasimha80@gmail.com]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
